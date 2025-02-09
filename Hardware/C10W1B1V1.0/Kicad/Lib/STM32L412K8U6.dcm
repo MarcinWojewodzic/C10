@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L412K8U6
+D STMICROELECTRONICS - STM32L412K8U6 - MCU, 32BIT, 80MHZ
+K
+F https://www.st.com/resource/en/datasheet/stm32l412k8.pdf
+$ENDCMP
+#
+#End Doc Library
