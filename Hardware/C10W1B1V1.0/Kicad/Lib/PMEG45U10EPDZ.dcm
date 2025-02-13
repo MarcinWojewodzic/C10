@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG45U10EPDZ
+D Schottky Diodes & Rectifiers 45V 10A low VF MEGA Schottky
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG45U10EPD.pdf
+$ENDCMP
+#
+#End Doc Library

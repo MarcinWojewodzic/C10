@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7448680140
+D Common Mode Chokes / Filters WE-LPCC CM Pwr Choke 230uH 16A 3.6mOhms
+K
+F https://katalog.we-online.de/pbs/datasheet/7448680140.pdf
+$ENDCMP
+#
+#End Doc Library

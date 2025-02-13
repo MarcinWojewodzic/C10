@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STL300N4LF8
+D N-channel logic level 40 V, 1.0 mOhm max., 304 A, STripFET F8 Power MOSFET in a PowerFLAT 5x6 package
+F https://www.st.com/resource/en/datasheet/stl300n4lf8.pdf
+$ENDCMP
+#
+#End Doc Library

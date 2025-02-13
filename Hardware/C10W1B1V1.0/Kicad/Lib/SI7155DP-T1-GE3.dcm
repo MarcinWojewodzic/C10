@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI7155DP-T1-GE3
+D MOSFET -40V Vds 20V Vgs PowerPAK SO-8
+F https://www.vishay.com/docs/75769/si7155dp.pdf
+$ENDCMP
+#
+#End Doc Library
