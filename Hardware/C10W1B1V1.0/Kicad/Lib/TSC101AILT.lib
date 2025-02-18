@@ -1,13 +1,14 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
-#SamacSys ECAD Model TSC101AILT
-#/154159/909145/2.50/5/3/Integrated Circuit
+#
+# TSC101AILT
+#
 DEF TSC101AILT IC 0 30 Y Y 1 F N
 F0 "IC" 850 300 50 H V L CNN
 F1 "TSC101AILT" 850 200 50 H V L CNN
 F2 "SOT95P280X145-5N" 850 100 50 H I L CNN
-F3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00153725.pdf" 850 0 50 H I L CNN
-F4 "TSC101AILT, Current Sensing Amplifier Single 5-Pin SOT-23" 850 -100 50 H I L CNN "Description"
+F3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00153725.pdf" 1300 -200 50 H I L CNN
+F4 "TSC101AILT, Current Sensing Amplifier Single 5-Pin SOT-23" 100 -900 50 H I L CNN "Description"
 F5 "1.45" 850 -200 50 H I L CNN "Height"
 F6 "STMicroelectronics" 850 -300 50 H I L CNN "Manufacturer_Name"
 F7 "TSC101AILT" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
@@ -16,12 +17,12 @@ F9 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TSC101AILT?qs=lcek
 F10 "TSC101AILT" 850 -700 50 H I L CNN "Arrow Part Number"
 F11 "https://www.arrow.com/en/products/tsc101ailt/stmicroelectronics" 850 -800 50 H I L CNN "Arrow Price/Stock"
 DRAW
-X OUT 1 0 0 200 R 50 50 0 0 O
-X GND 2 0 -100 200 R 50 50 0 0 W
-X VP 3 0 -200 200 R 50 50 0 0 P
-X VM 4 1000 0 200 L 50 50 0 0 P
-X VCC 5 1000 -100 200 L 50 50 0 0 W
 P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+X OUT 1 1000 -150 200 L 50 50 0 0 O
+X GND 2 0 -250 200 R 50 50 0 0 W
+X VP 3 300 300 200 D 50 50 0 0 P
+X VM 4 700 300 200 D 50 50 0 0 P
+X VCC 5 0 -150 200 R 50 50 0 0 W
 ENDDRAW
 ENDDEF
 #

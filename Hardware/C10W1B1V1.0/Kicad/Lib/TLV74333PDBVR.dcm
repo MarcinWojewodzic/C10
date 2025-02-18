@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV74333PDBVR
+D 300mA Low-Dropout (LDO) Regulator
+F http://www.ti.com/lit/gpn/tlv743p
+$ENDCMP
+#
+#End Doc Library

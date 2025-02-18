@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP331AWG-7
+D DiodesZetex AP331AWG-7 Comparator, Open Collector O/P, 1.3us 2  36 V 5-Pin SOT-25
+K
+F https://www.diodes.com//assets/Datasheets/AP331A.pdf
+$ENDCMP
+#
+#End Doc Library

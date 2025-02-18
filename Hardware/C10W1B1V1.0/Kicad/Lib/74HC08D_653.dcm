@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC08D,653
+D 74HC(T)08 - Quad 2-input AND gate@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf
+$ENDCMP
+#
+#End Doc Library

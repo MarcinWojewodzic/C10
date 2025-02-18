@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX16171ATA_VY+
+D Ideal Diode Controller with Reverse-Current Protection, 8 TDFN-CU
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX16171.pdf
+$ENDCMP
+#
+#End Doc Library

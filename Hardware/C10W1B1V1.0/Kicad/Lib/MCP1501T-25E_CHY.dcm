@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1501T-25E_CHY
+D Microchip Technology MCP1501T-25E/CHY, Precision Voltage Reference 2.5V, 0.1% 8-Pin, SOT-23
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf
+$ENDCMP
+#
+#End Doc Library
